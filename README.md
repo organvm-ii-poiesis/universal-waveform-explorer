@@ -1,5 +1,13 @@
 # Aether Canvas — The Universal Waveform Explorer
 
+[![CI](https://github.com/organvm-ii-poiesis/universal-waveform-explorer/actions/workflows/ci.yml/badge.svg)](https://github.com/organvm-ii-poiesis/universal-waveform-explorer/actions/workflows/ci.yml)
+[![Coverage](https://img.shields.io/badge/coverage-pending-lightgrey)](https://github.com/organvm-ii-poiesis/universal-waveform-explorer)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/organvm-ii-poiesis/universal-waveform-explorer/blob/main/LICENSE)
+[![Organ II](https://img.shields.io/badge/Organ-II%20Poiesis-EC4899)](https://github.com/organvm-ii-poiesis)
+[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/organvm-ii-poiesis/universal-waveform-explorer)
+[![TypeScript](https://img.shields.io/badge/lang-TypeScript-informational)](https://github.com/organvm-ii-poiesis/universal-waveform-explorer)
+
+
 ![CI](https://img.shields.io/github/actions/workflow/status/organvm-ii-poiesis/universal-waveform-explorer/ci.yml?branch=main&label=CI)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Organ](https://img.shields.io/badge/organ-II%20%C2%B7%20poiesis-blueviolet)
